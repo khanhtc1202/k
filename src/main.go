@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/user"
 
-	"github.com/khanhtc1202/k/src/repl"
+	"repl"
 )
 
 func main() {
